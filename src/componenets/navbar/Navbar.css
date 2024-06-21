@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    background-color: black;
+    justify-content: flex-end;
+    color: white;
+    padding: 8px 25px;
+    font-size: 20px;
+}
+
+.links {
+    color: white;
+    gap: 20px;
+}
+
+.links .list {
+    color: white;
+}

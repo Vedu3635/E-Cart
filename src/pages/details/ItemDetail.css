@@ -1,0 +1,19 @@
+.Itemdetails {
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.detail-image img {
+    height: 70vh;
+    margin-bottom: 20px;
+    max-width: 50vw;
+
+}
+
+.item-details {
+    font-size: 25px;
+    flex-direction: column;
+    row-gap: 20px;
+}
